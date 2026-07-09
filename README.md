@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -14,8 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
