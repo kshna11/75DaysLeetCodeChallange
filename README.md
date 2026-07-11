@@ -20,5 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
+## String
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
