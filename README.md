@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Simulation
 |  |
 | ------- |
