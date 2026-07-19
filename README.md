@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
