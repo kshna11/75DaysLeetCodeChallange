@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0409-longest-palindrome) |
 | [0942-di-string-match](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
