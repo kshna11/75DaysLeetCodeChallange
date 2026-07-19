@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
