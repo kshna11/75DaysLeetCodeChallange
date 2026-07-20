@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
