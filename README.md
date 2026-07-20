@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0409-longest-palindrome) |
 | [0942-di-string-match](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
