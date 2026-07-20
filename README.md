@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2027-minimum-moves-to-convert-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
