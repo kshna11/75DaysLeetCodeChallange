@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2126-destroying-asteroids](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3689-maximum-total-subarray-value-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/3474-lexicographically-smallest-generated-string) |
 ## String Matching
 |  |
