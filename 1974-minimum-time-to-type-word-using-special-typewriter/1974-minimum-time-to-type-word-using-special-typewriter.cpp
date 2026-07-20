@@ -8,7 +8,7 @@ public:
         for(char ch : word){
 
             int diff = abs(ch-current);
-
+                                        
             time += min(diff,26-diff);
 
             time++;
