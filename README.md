@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0409-longest-palindrome) |
 | [0942-di-string-match](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0942-di-string-match) |
+| [1189-maximum-number-of-balloons](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/0561-array-partition) |
+| [1189-maximum-number-of-balloons](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kshna11/75DaysLeetCodeChallange/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
